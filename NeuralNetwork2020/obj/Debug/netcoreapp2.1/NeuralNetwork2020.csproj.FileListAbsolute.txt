@@ -1,0 +1,12 @@
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\bin\Debug\netcoreapp2.1\NeuralNetwork2020.deps.json
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\bin\Debug\netcoreapp2.1\NeuralNetwork2020.runtimeconfig.json
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\bin\Debug\netcoreapp2.1\NeuralNetwork2020.runtimeconfig.dev.json
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\bin\Debug\netcoreapp2.1\NeuralNetwork2020.dll
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\bin\Debug\netcoreapp2.1\NeuralNetwork2020.pdb
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\obj\Debug\netcoreapp2.1\NeuralNetwork2020.csprojAssemblyReference.cache
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\obj\Debug\netcoreapp2.1\NeuralNetwork2020.csproj.CoreCompileInputs.cache
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\obj\Debug\netcoreapp2.1\NeuralNetwork2020.AssemblyInfoInputs.cache
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\obj\Debug\netcoreapp2.1\NeuralNetwork2020.AssemblyInfo.cs
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\obj\Debug\netcoreapp2.1\NeuralNetwork2020.dll
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\obj\Debug\netcoreapp2.1\NeuralNetwork2020.pdb
+E:\Users\Stephen\Applications\MyProgram\NeuralNetwork2020\NeuralNetwork2020\obj\Debug\netcoreapp2.1\NeuralNetwork2020.genruntimeconfig.cache

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="res\Finished\" />
+    <Folder Include="res\video\" />
+    <Folder Include="saves\interpolation\" />
+    <Folder Include="video\interpolatedtest\" />
+    <Folder Include="video\interpolatedtrain\" />
+  </ItemGroup>
+
+</Project>

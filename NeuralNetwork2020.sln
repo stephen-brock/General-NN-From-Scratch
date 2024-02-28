@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetwork2020", "NeuralNetwork2020\NeuralNetwork2020.csproj", "{0868975A-31D0-4A32-A69B-90FCB2E7DCBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0868975A-31D0-4A32-A69B-90FCB2E7DCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0868975A-31D0-4A32-A69B-90FCB2E7DCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0868975A-31D0-4A32-A69B-90FCB2E7DCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0868975A-31D0-4A32-A69B-90FCB2E7DCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A5A9C1-CF5B-4406-BE86-ABEAF40D249E}
+	EndGlobalSection
+EndGlobal
